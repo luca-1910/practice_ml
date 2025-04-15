@@ -16,6 +16,14 @@ This repository is designed to:
 - Focuses on cleaning and preparing a dataset of Olympic athlete medals.
 - Techniques used include handling missing values, type conversions, and data transformation.
 
+### `data_cleaning_athlete_events.ipynb`
+An extension of the data cleaning process applied to athlete event data:
+- Addressing inconsistencies in event naming
+- Normalizing categorical variables
+- Preparing the dataset for exploratory analysis and modeling
+
+---
+
 ## 🧰 Tools & Libraries
 
 - Python
